@@ -1,4 +1,4 @@
-**Creative Computing - Artificial Intelligence - Aaron Lynch**
+***Creative Computing - Artificial Intelligence - Aaron Lynch***
 
 **Assignment 1:**
 
